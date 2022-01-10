@@ -1,0 +1,21 @@
+b.
+PV
+VU
+UM
+ML
+LD
+DA
+AE
+RM
+MU
+UV
+VP
+
+c.
+The arrangement can be seening as 4 layers where we have A-D, E-L, M-T, U-X, and we can regard it as a loop which repeats twice.
+We can see it as from A to B and C to D two columns of 8 layers. 
+The number 1,000,000,000,000,000,000 is obviously devisible by 8, so we will eventually end up in the layer we started in.
+So we will end up in M-T to U-X layer.
+
+d.
+2572
